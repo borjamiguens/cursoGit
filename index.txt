@@ -1,1 +1,3 @@
 proyecto web empresa A
+
+estilos ha modificado color de fondo y titulo de index
